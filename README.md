@@ -3,7 +3,7 @@
 
 ## PureFacts Financial 
 <p align="end">
-  <img width="140" height="50" src="PureFacts-logo.png">
+  <img width="140" height="50" src="PureFacts-logo1.png">
 </p>
 
 #### Overview and Orign
